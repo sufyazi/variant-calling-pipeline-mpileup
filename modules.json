@@ -1,0 +1,11 @@
+{
+    "name": "sufyazi/variant-calling-pipeline-mpileup",
+    "homePage": "https://github.com/sufyazi/variant-calling-pipeline-mpileup",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {}
+            }
+        }
+    }
+}
